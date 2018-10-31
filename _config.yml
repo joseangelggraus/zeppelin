@@ -144,7 +144,7 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validThrough: "2019-09-30T23:59"
  -
   name: "Last Chance"
   price: "450"
@@ -156,8 +156,8 @@ ticketsOffers:
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
+  validThrough: "2019-10-23T23:59"
+  disabled: false
  -
   name: "Student"
   price: "200"
@@ -168,8 +168,8 @@ ticketsOffers:
   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
+  validThrough: "2019-10-23T23:59"
+  soldOut: false
   soldOutText: "Sold Out"
 
 # Footer
