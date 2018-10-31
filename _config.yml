@@ -10,8 +10,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
+title: "GDG DevFest Season JA"
+email: "jagraus@apryme.es"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
 url: "http://gdg-x.github.io"
